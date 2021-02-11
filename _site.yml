@@ -1,0 +1,8 @@
+name: "sandell-website"
+output_dir: "."
+output:
+  html_document:
+    theme: "paper"
+    css: ["https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+    style.css]

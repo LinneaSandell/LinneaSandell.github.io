@@ -1,0 +1,17 @@
+---
+title: "📚 Publications"
+---
+
+## 2021
+**Gil J. B. Henriques**, Koichi Ito, Christoph Hauert, Michael Doebeli. On the importance of evolving phenotype distributions on evolutionary diversification. In *PLOS Computational Biology* (in press)
+
+## 2020
+**Gil J. B. Henriques**, Matthew M. Osmond. [Cooperation can promote rescue or lead to evolutionary suicide during environmental change.](henriques_cv/papers/henriques2020.pdf) In *Evolution* 74:7, 1255--1273
+
+Andrés E. Quiñones, **Gil J. B. Henriques**, Ido Pen. [Queen‑worker conflict can drive the evolution of social plymorphism and split sex ratios in facultatively eusocial life cycles.](henriques_cv/papers/quinones2020.pdf) In *Evolution* 74:1, 15--28 <font size="2">([Digest](henriques_cv/papers/digests/digest_quinones2019.pdf))</font>
+
+## 2019
+**Gil J. B. Henriques**, Simon Burton, Yaroslav Ispolatov, Michael Doebeli. [Acculturation drives the evolution of intergroup conflict.](henriques_cv/papers/henriques2019.pdf) In *Proceedings of the National Academy of Sciences of the USA* 116:28, 14089–-14097 <font size="2">([Press](https://scientificinquirer.com/2019/09/19/conversations-with-burt-simon-and-gil-henriques-reframing-intergroup-conflicts/), [more press](https://www.sciencedaily.com/releases/2019/07/190709091146.htm))</font>
+
+## 2016
+Eva J. P. Lievens, **Gil J. B. Henriques**, Yannis Michalakis, Thomas Lenormand. [Maladaptive sex ratio adjustment in the invasive brine shrimp *Artemia franciscana*.](henriques_cv/papers/lievens2016.pdf) In *Current Biology* 26:11, 1463–-1467 <font size="2">([Digest](henriques_cv/papers/digests/digest_lievens2016.pdf))</font>
