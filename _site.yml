@@ -1,4 +1,5 @@
 name: "sandell-website"
+pagetitle: "Linnea Sandell"
 output_dir: "."
 output:
   html_document:
