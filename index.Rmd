@@ -9,21 +9,21 @@ title:  |
 
 I currently live and work in beautiful Vancouver BC, Canada, in the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, and səlilwətaɬ peoples
 
-
+<hr />
 <img align="right" width="325" style="padding: 15px" src="./DSC01550.jpeg">
 
-<strong>My research</strong>
+<h3>My research</h3>
 
 I spent my PhD designing and conducting **evolutionary experiments** with budding yeast. Mainly, I have tried to show what I know _in theory_ should work. I have tried to select for increased **recombination** rates between selective markers, select for increased frequency of **sex**, observe **evolutionary rescue**, explain fitness differences by protein changes, and assess **fitness effects of mutations** when they occur in haploid, heterozygous, or homozygous diploid form. 
 
-In theory yeast is a robust system for genetic manipulation, in reality they are _weak_. Two of my projects failed (as in, I could not answer the question I set out to) due to genetic failure. Another of my projects failed because of machine failure (_in theory_ the incubator should not break down in the middle of the experiment, and the replacement should _in theory_ keep an even temperature). In Swedish there is a fitting expression: "men ja ä int bitter" (literally, "but I'm not bitter").
+In theory yeast is a robust system for genetic manipulation. Sometimes they are not. Two of my projects failed (as in, I could not answer the question I set out to) due to genetic failure. Another of my projects failed because of machine failure (_in theory_ the incubator should not break down in the middle of the experiment, and the replacement should _in theory_ keep an even temperature). In Swedish there is a fitting expression: "men ja ä int bitter" (literally, "but I'm not bitter").
 
-I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms, its secrets) preferably in a system other than _Saccharomyces cerevisiae_. Meiosis is inevitably connected to the **mating system** of an organism (you don't want to meiosis with just anyone), and I'm increasingly fascinated by the way mating systems evolve (in the evolutionary experiment where I forced yeast to go through sexual reproduction much more frequently than they would normally, I found convergent evolution towards haploid cells harboring both mating types 🤯). Evolution of mating system and meiosis are both entangled with **genetic architecture** and recombination, which are my first and foremost love.
+I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms, its secrets). Meiosis is inevitably connected to the **mating system** of an organism (you don't want to meiosis with just anyone), and I'm increasingly fascinated by the way mating systems evolve (in the evolutionary experiment where I forced yeast to go through sexual reproduction much more frequently than they would normally, I found convergent evolution towards haploid cells harboring both mating types 🤯). Evolution of mating system and meiosis are both entangled with **genetic architecture** and recombination, which are my first and foremost love.
 
 <hr />
 
 
-<strong>Nostalgia</strong>
+<h3>Nostalgia</h3>
 <ul>
  	<li><a href="https://www.youtube.com/watch?v=A3qxCGW4A8w">Dancer, actress and singer in Zoology Huts skit 2017</a></li>
  	<li><a href="https://youtu.be/ax2B198zkmA">Director and visual editor in Zoology Huts skit 2016</a></li>
@@ -32,7 +32,7 @@ I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms
 </ul>
 <hr />
 
-<strong>Related pages</strong>
+<h3>Related pages</h3>
 <ul>
  	<li><a href="http://www.biodiversity.ubc.ca">Biodiversity Research Centre, UBC</a></li>
  	<li><a href="http://www.zoology.ubc.ca">Department of Zoology, UBC</a></li>
@@ -45,7 +45,7 @@ I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms
 
 <hr />
 
-<strong>Name drop</strong>
+<h3>Name drop</h3>
 
 ☀️ My privilege is bigger than the sun ☀️
 
