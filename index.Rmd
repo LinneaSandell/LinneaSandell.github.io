@@ -52,4 +52,6 @@ What I know about experimental design I learned from [Dr Nathaniel Sharp](https:
 
 Discussing science with [Dr Ophélie Ronce](http://www.isem.univ-montp2.fr/en/personnel/teams/metapopulation/ronce-ophelie.index/) always leaves me inspired. She has taught me how to make quantitative genetic models involving stage structure. She inspires me to be generous and genuine.
 
+Thanks to soon-to-be [Dr Gil Henriques](https://gilhenriques.github.io) for helping me set up this website 😘
+
 <hr />
