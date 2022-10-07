@@ -1,10 +1,9 @@
 ---
-title: ""Linnéa Sandell\n<p style=\"font-size:14px\">Pronounced lee-neh-ah &#8226;"
-  Pronouns: *she/her/hers*</p> \n[CV](./SandellAcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en)
-  • [Email](mailto:sandell@zoology.ubc.ca) • [OrcID](https://orcid.org/0000-0002-1716-9801)
-  • [Twitter](https://twitter.com/nea_borealis)\n"
+title:  |
+        Linnéa Sandell
+        <p style="font-size:14px">Pronounced lee-neh-ah &#8226; Pronouns: *she/her/hers*</p> 
+        [CV](./SandellAcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:sandell@zoology.ubc.ca) • [OrcID](https://orcid.org/0000-0002-1716-9801) • [Twitter](https://twitter.com/nea_borealis)
 ---
-
 
 I currently live and work in Uppsala, Sweden.
 
@@ -56,6 +55,6 @@ What I know about experimental design I learned from [Dr Nathaniel Sharp](https:
 
 Discussing science with [Dr Ophélie Ronce](http://www.isem.univ-montp2.fr/en/personnel/teams/metapopulation/ronce-ophelie.index/) always leaves me inspired. She has taught me how to make quantitative genetic models involving stage structure. She inspires me to be generous and genuine.
 
-Thanks to soon-to-be [Dr Gil Henriques](https://gilhenriques.github.io) for helping me set up this website 😘
+Thanks to [Dr Gil Henriques](https://gilhenriques.github.io) for helping me set up this website 😘
 
 <hr />
