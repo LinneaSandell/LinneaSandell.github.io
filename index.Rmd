@@ -8,7 +8,7 @@ title:  |
 I currently live and work in Uppsala, Sweden.
 
 <hr />
-<img align="right" width="325" style="padding: 15px" src="./DSC01550.jpeg">
+<img align="right" width="325" style="padding: 15px" src="./linnea2.png">
 
 <h3>My research</h3>
 I'm currently working at the [Swedish Biodiversity Centre](https://www.slu.se/en/Collaborative-Centres-and-Projects/swedish-biodiversity-centre1/) with Dr Jan Plue. We are asking how genomic traits of species may influence their ability to cope with environmental changes.
