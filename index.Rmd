@@ -2,7 +2,7 @@
 title:  |
         Linnéa Sandell
         <p style="font-size:14px">Pronounced lee-neh-ah &#8226; Pronouns: *she/her/hers*</p> 
-        [CV](./AcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:sandell@zoology.ubc.ca) • [OrcID](https://orcid.org/0000-0002-1716-9801) • [Twitter](https://twitter.com/nea_borealis)
+        [CV](./AcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:nhl.sandell@gmail.com) • [OrcID](https://orcid.org/0000-0002-1716-9801)
 ---
 
 I currently live and work in Uppsala, Sweden.
@@ -11,13 +11,11 @@ I currently live and work in Uppsala, Sweden.
 <img align="right" width="325" style="padding: 15px" src="./DSC01550.jpeg">
 
 <h3>My research</h3>
-I'm currently working with [Dr. Aaron Vogan](https://www.iob.uu.se/research/systematic-biology/aaron-vogan/) on a project on meiotic drive elements in an asexual genus of fungi. What role do these meiotic drive elements play in species that don't do meiosis? How and why are multiple copies of these genes maintained in fungal populations?
+I'm currently working at the [Swedish Biodiversity Centre](https://www.slu.se/en/Collaborative-Centres-and-Projects/swedish-biodiversity-centre1/) with Dr Jan Plue. We are asking how genomic traits of species may influence their ability to cope with environmental changes.
 
-During my PhD I designed and conducted **evolutionary experiments** with budding yeast. Using selection experiments in this putatively robust and flexible model organism, my research is aimed at proving mating systems and their consequences. I focus on connecting evolutionary theory with laboratory experiments. Hence, I have tried to show what I know _in theory_ should work. I tried, for example, to select for increased **recombination** rates between selective markers, select for increased frequency of **sex**, observe **evolutionary rescue**, explain fitness differences by protein changes, and assess **fitness effects of mutations** when they occur in haploid, heterozygous, or homozygous diploid form. 
+I learned some yeast genetics during my PhD which I employed in a project on selfish genetic elements in plant pathogenic fungi. [Dr Aaron Vogan](https://fungage.github.io/) found these genes based on their homology to meiotic drive elements. What role do these meiotic drive-look a likes play in species that very rarely do meiosis? How and why are multiple copies of these genes maintained in fungal populations?
 
-While in theory yeast is a robust system for genetic manipulation, in reality it can be fickle. Two of my projects failed (I was unable to address the motivating hypothesis) due to genetic failures. _In theory_ genetic transformation should not cause drastic and varied effects on fitness. Another of my projects failed because of machine breakdown (_in theory_ the incubator should not break down in the middle of the experiment, and _in theory_ the replacement should keep an even temperature). In Swedish there is a fitting expression: "men ja ä int bitter" (literally, "but I'm not bitter").
-
-I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms, its secrets). Meiosis is inevitably connected to the **mating system** of an organism (you don't want to meiosis with just anyone), and I'm increasingly fascinated by the way mating systems evolve (in the evolutionary experiment where I forced yeast to go through sexual reproduction much more frequently than they would normally, I found convergent evolution towards haploid cells harboring both mating types 🤯). Evolution of mating system and meiosis are both entangled with **genetic architecture** and recombination, which are my first and foremost love.
+During my PhD I designed and conducted **evolutionary experiments** with budding yeast. Using selection experiments in this putatively robust and flexible model organism, my research is aimed at proving mating systems and their consequences. I focus on connecting evolutionary theory with laboratory experiments. Hence, I have tried to show what I know _in theory_ should work. I tried, for example, to select for increased **recombination** rates between selective markers, select for increased frequency of **sex**, observe **evolutionary rescue**, explain fitness differences by protein changes, and assess **fitness effects of mutations** when they occur in haploid, heterozygous, or homozygous diploid form.
 
 <hr />
 
@@ -34,6 +32,8 @@ I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms
 
 <h3>Related pages</h3>
 <ul>
+
+  <li><a href="https://www.slu.se/en/Collaborative-Centres-and-Projects/swedish-biodiversity-centre1/">Swedish Biodiversity Centre, Swedish University of Agriculture</a></li>
   <li><a href="https://www.iob.uu.se/?languageId=1">Department of Organismal Biology, Uppsala University</a></li>
  	<li><a href="http://www.biodiversity.ubc.ca">Biodiversity Research Centre, UBC</a></li>
  	<li><a href="http://www.zoology.ubc.ca">Department of Zoology, UBC</a></li>
@@ -50,12 +50,14 @@ I'm mesmerized by **meiosis**. I want to study it (its evolution, its mechanisms
 
 ☀️ My privilege is bigger than the sun ☀️
 
-I'm a proud graduate student of [Dr Sally Otto](https://www.zoology.ubc.ca/~otto/). Being mentored by her is one of my greatest achievements and fortunes. She has taught me humility and compassion.
+[Dr Aaron Vogan](https://fungage.github.io/) blew my mind when he introduced me to the concept of accessory chromosomes, parasexuality, and horizontal transfer of giant transposable elements (Starships) among fungi. He has shown me how to be brave with your science and explore uncharted waters.
+
+I'm a proud graduate of [Dr Sally Otto](https://www.zoology.ubc.ca/~otto/). Being mentored by her is one of my greatest achievements and fortunes. She has taught me humility and compassion.
 
 What I know about experimental design I learned from [Dr Nathaniel Sharp](https://genetics.wisc.edu/staff/sharp-nathaniel/). He has taught me persistence, and persistence.
 
 Discussing science with [Dr Ophélie Ronce](http://www.isem.univ-montp2.fr/en/personnel/teams/metapopulation/ronce-ophelie.index/) always leaves me inspired. She has taught me how to make quantitative genetic models involving stage structure. She inspires me to be generous and genuine.
 
-Thanks to [Dr Gil Henriques](https://gilhenriques.github.io) for helping me set up this website 😘
+Thanks to [Dr Gil Henriques](https://gilhenriques.github.io) for helping me set up this website.
 
 <hr />
