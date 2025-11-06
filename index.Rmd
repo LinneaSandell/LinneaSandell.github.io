@@ -5,7 +5,7 @@ title:  |
         [CV](./AcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:linnea.sandell@icloud.com) • [OrcID](https://orcid.org/0000-0002-1716-9801)
 ---
 
-I currently live in Uppsala, Sweden, but work as a laboratory coordinator at the [Department of Gene technology](https://www.kth.se/gte/gene-technology-1.783283) at KTH, the Royal Institute of Technology.
+I currently live in Uppsala, Sweden, but work as a laboratory coordinator at the [Department of Gene technology](https://www.kth.se/gte/gene-technology-1.783283) at KTH, the Royal Institute of Technology in Stockholm.
 
 <hr />
 <img align="right" width="325" style="padding: 15px" src="./linnea2.png">
