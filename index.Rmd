@@ -2,18 +2,19 @@
 title:  |
         Linnéa Sandell
         <p style="font-size:14px">Pronounced lee-neh-ah &#8226; Pronouns: *she/her/hers*</p> 
-        [CV](./AcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:nhl.sandell@gmail.com) • [OrcID](https://orcid.org/0000-0002-1716-9801)
+        [CV](./AcademicCV.pdf) • [Google scholar](https://scholar.google.ca/citations?user=-5nU8P0AAAAJ&hl=en) • [Email](mailto:linnea.sandell@icloud.com) • [OrcID](https://orcid.org/0000-0002-1716-9801)
 ---
 
-I currently live and work in Uppsala, Sweden.
+I currently live in Uppsala, Sweden, but work as a laboratory coordinator at the [Department of Gene technology](https://www.kth.se/gte/gene-technology-1.783283) at KTH, the Royal Institute of Technology.
 
 <hr />
 <img align="right" width="325" style="padding: 15px" src="./linnea2.png">
 
 <h3>My research</h3>
-I'm currently working at the [Swedish Biodiversity Centre](https://www.slu.se/en/Collaborative-Centres-and-Projects/swedish-biodiversity-centre1/) with Dr Jan Plue. We are asking how genomic traits of species may influence their ability to cope with environmental changes.
 
-I learned some yeast genetics during my PhD which I employed in a project on selfish genetic elements in plant pathogenic fungi. [Dr Aaron Vogan](https://fungage.github.io/) found these genes based on their homology to meiotic drive elements. What role do these meiotic drive-look a likes play in species that very rarely do meiosis? How and why are multiple copies of these genes maintained in fungal populations?
+In a project with Dr Jan Plue at the [Swedish Biodiversity Centre](https://www.slu.se/en/Collaborative-Centres-and-Projects/swedish-biodiversity-centre1/) we are asking how genomic traits of species may influence their ability to cope with environmental changes. I also had the chance to write a think piece about [microbial diversity in the food we eat](https://www.slu.se/om-slu/organisation/framtidsplattformar/slu-future-food/publikationer/rapporter/den-biologiska-mangfalden-och-maten-vi-ater/) (in Swedish).
+
+I learned some yeast genetics during my PhD which I employed in a post doctoral project on selfish genetic elements in plant pathogenic fungi. [Dr Aaron Vogan](https://fungage.github.io/) found these genes based on their homology to meiotic drive elements. What role do these meiotic drive-look a likes play in species that very rarely do meiosis? How and why are multiple copies of these genes maintained in fungal populations? Read about it [here](https://doi.org/10.1093/genetics/iyaf197).
 
 During my PhD I designed and conducted **evolutionary experiments** with budding yeast. Using selection experiments in this putatively robust and flexible model organism, my research is aimed at proving mating systems and their consequences. I focus on connecting evolutionary theory with laboratory experiments. Hence, I have tried to show what I know _in theory_ should work. I tried, for example, to select for increased **recombination** rates between selective markers, select for increased frequency of **sex**, observe **evolutionary rescue**, explain fitness differences by protein changes, and assess **fitness effects of mutations** when they occur in haploid, heterozygous, or homozygous diploid form.
 
